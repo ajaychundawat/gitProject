@@ -1,4 +1,3 @@
 Hello Ajay!!
 GitHub update
 Git pull
-HotFix change
